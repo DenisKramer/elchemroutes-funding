@@ -22,7 +22,7 @@ https://www.newtonfund.ac.uk/
 
 --- 
 
-# Royal Society
+## Royal Society
 
 https://royalsociety.org/grants-schemes-awards/grants/
 
@@ -33,7 +33,7 @@ https://royalsociety.org/grants-schemes-awards/grants/
 
 +++ 
 
-# Royal Academy of Engineering
+## Royal Academy of Engineering
 
 https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations
 
@@ -43,7 +43,7 @@ https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborat
 
 +++
 
-# UK Research and Innovation (UKRI)
+## UK Research and Innovation (UKRI)
 
 https://www.ukri.org/research/international
 
@@ -53,7 +53,7 @@ https://www.ukri.org/research/global-challenges-research-fund/
 
 +++
 
-# Other opportunities
+## Other opportunities
 
 - [STFCbatteries.org](https://www.stfcbatteries.org/)
 - [World University Network](http://wun.ac.uk)
