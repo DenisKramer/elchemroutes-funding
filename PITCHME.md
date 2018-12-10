@@ -47,9 +47,8 @@ https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborat
 
 https://www.ukri.org/research/international
 
-- Newton Fund
-- Global Challenges Research Funds (GCRF)
-https://www.ukri.org/research/global-challenges-research-fund/
+- [Newton Fund](https://www.ukri.org/research/international/newton-fund/)
+- [Global Challenges Research Funds](https://www.ukri.org/research/global-challenges-research-fund/)
 
 +++
 
