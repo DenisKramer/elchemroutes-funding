@@ -43,7 +43,7 @@ https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborat
 
 +++
 
-## UK Research and Innovation (UKRI)
+## UK Research and Innovation
 
 https://www.ukri.org/research/international
 
