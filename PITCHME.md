@@ -3,7 +3,7 @@
 ---
 ## Funding landscape in the UK
 
-The United Kingdom has a large array of funding mechanisms to engage with developing nations through
+The UK has a large array of funding mechanisms to engage with developing nations through
 
 - Research Councils
 - Learned societies
