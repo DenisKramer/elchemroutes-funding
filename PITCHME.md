@@ -48,7 +48,7 @@ https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborat
 https://www.ukri.org/research/international
 
 - Newton Fund
-- Global Challenges Research Funds (GCRF) a £1.5 billion fund announced by the UK Government
+- Global Challenges Research Funds (GCRF)
 https://www.ukri.org/research/global-challenges-research-fund/
 
 +++
