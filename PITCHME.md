@@ -51,5 +51,12 @@ https://www.ukri.org/research/international
 - Global Challenges Research Funds (GCRF) a £1.5 billion fund announced by the UK Government
 https://www.ukri.org/research/global-challenges-research-fund/
 
++++
+
+# Other opportunities
+
+- [STFCbatteries.org](https://www.stfcbatteries.org/)
+- [World University Network](http://wun.ac.uk)
+- [Commonwealth Scholarships](https://www.britishcouncil.in/study-uk/scholarships/commonwealth-scholarships)
 
 
